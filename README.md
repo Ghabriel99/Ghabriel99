@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https:///"><img alt="Website" src=""></a>
+<a href=""><img alt="Website" src=""></a>
 <a href="https://www.linkedin.com/in/ghabriel-marchesi-schiavo-2b080320b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href=""><img alt="Instagram" src=""></a>
 <a href="mailto:ghabrielschiavo@hotmail.com"><img alt="Email" src=""></a>
