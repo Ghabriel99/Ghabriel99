@@ -1,6 +1,6 @@
 
 
-<h2> I'm Ghabriel since 99.</h2>
+<h2> hello, w0rld! </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
