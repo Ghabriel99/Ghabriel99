@@ -1,14 +1,13 @@
 
 
 <h2> hello, w0rld! </h2>
-
+<h3> "the quieter you become, the more you are able to hear." </h3>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and oportunities.
-- 🎓 &nbsp; Creating my website portfolio
-- 🌱 &nbsp; Learning more about JavaScript and frameworks, Data bases
-- ✍️ &nbsp; Read others people code and observe.
-
+- 🎓 &nbsp; Creating 
+- 🌱 &nbsp; Learning
+- ✍️ &nbsp; Reading
 <h3> 🛠 &nbsp;Techs</h3>
 
  
