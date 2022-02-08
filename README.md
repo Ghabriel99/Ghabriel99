@@ -1,7 +1,7 @@
 
 
 <h2> hello, w0rld! </h2>
-<h3> "the quieter you become, the more you are able to hear." </h3>
+<h3> "ninguem é tão grande que não possa aprender, nem tão pequeno que não possa ensinar." </h3>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and oportunities.
