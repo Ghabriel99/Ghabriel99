@@ -2,7 +2,7 @@
 
 <h2> hello, w0rld! </h2>
 <h3> "ninguem é tão grande que não possa aprender, nem tão pequeno que não possa ensinar." </h3>
-- 📫 Contate-me no e-mail: ghabrielschiavo@hotmail.com
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and oportunities.
@@ -40,3 +40,4 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/ghabriel-marchesi-schiavo-2b080320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Ghabriel99" target="_blank">
+ - 📫 Contate-me no e-mail: ghabrielschiavo@hotmail.com
