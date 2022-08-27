@@ -1,7 +1,8 @@
 
 
 <h2> hello, w0rld! </h2>
-<h3> "ninguem é tão grande que não possa aprender, nem tão pequeno que não possa ensinar." </h3>
+<h3> "Olá, eu sou o Ghabriel e estou com 23 anos.
+Atualmente estou cursando ADS, estudadno JAVA e banco de dados SQL..." </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -13,10 +14,11 @@
 
  
 
-- 🌐💻 &nbsp;- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐💻 &nbsp; JAVA
+- - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  !JAVA
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
   
