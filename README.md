@@ -2,7 +2,7 @@
 
 <h2> hello, w0rld! </h2>
 <h3> "Olá, eu sou o Ghabriel e estou com 23 anos.
-Atualmente estou cursando ADS, estudadno JAVA e banco de dados SQL..." </h3>
+Atualmente estou cursando ADS, estudando JAVA e banco de dados SQL..." </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
