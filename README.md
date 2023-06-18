@@ -4,6 +4,7 @@
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h4> My name is Ghabriel and i'm 24 years old. Actually i am focusing in Fullstack devolopment using Java, Spring Boot, Spring Security, Spring web, API's REST e framework Angular.</h4>
 
 - 🤔 &nbsp; Exploring new technologies and oportunities.
 - 🎓 &nbsp; Creating 
@@ -15,9 +16,11 @@
 
 - 🌐💻 &nbsp;
 - - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Java](https://t.ctcdn.com.br/K7ExAkAuGOPFDxxm3KHEgRm8Xz0=/1024x0/smart/i553155.png)
+  ![Spring Boot](https://blogs.ashrithgn.com/content/images/2019/11/th.jpg)
+  ![Angular](https://img2.gratispng.com/20180701/rht/kisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
   
 <!--
