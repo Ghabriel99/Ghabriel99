@@ -16,9 +16,9 @@
 
 - 🌐💻 &nbsp;
 - - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://t.ctcdn.com.br/K7ExAkAuGOPFDxxm3KHEgRm8Xz0=/1024x0/smart/i553155.png)
-  ![Spring Boot](https://blogs.ashrithgn.com/content/images/2019/11/th.jpg)
-  ![Angular](https://img2.gratispng.com/20180701/rht/kisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg)
+  ![Java]()
+  ![Spring Boot]()
+  ![Angular]()
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
