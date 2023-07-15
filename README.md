@@ -6,11 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <h4> My name is Ghabriel, I'm 24 years old and I love to learn/study technologies.</h4>
 
-- 🤔 &nbsp; Exploring new technologies and oportunities.
-- 🎓 &nbsp; Creating 
-- 🌱 &nbsp; Learning
-- ✍️ &nbsp; Reading
-<h3> 🛠 &nbsp;Techs</h3>
+<h3> 🛠 &nbsp;Techs :</h3>
 
  
 
