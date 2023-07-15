@@ -4,7 +4,7 @@
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-<h4> My name is Ghabriel and i'm 24 years old. Actually i am focusing in Fullstack devolopment using Java, Spring Boot, Spring Security, Spring web, API's REST and front end framework Angular.</h4>
+<h4> My name is Ghabriel, I'm 24 years old and I love to learn/study technologies.</h4>
 
 - 🤔 &nbsp; Exploring new technologies and oportunities.
 - 🎓 &nbsp; Creating 
